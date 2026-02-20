@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SoySH/inventario)
 # Sistema de Inventario – Instalador Base
 
 ## 1. Dependencias incluidas
